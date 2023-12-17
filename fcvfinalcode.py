@@ -51,3 +51,4 @@ video_path = 'man.mp4'
 
 # Step 13: Call the background_subtraction function with the video path
 background_subtraction(video_path)
+print("This a demo")
